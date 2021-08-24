@@ -1,6 +1,6 @@
 package com.devsuperior.uri2621.dtos;
 
-import com.devsuperior.uri2621.ProductProjection;
+import com.devsuperior.uri2621.projections.ProductProjection;
 
 public class ProductDTO {
 

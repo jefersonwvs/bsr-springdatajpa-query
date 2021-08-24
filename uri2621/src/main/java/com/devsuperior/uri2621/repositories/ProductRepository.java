@@ -5,9 +5,9 @@ import java.util.List;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 
-import com.devsuperior.uri2621.ProductProjection;
 import com.devsuperior.uri2621.dtos.ProductDTO;
 import com.devsuperior.uri2621.entities.Product;
+import com.devsuperior.uri2621.projections.ProductProjection;
 
 public interface ProductRepository extends JpaRepository<Product, Long> {
 

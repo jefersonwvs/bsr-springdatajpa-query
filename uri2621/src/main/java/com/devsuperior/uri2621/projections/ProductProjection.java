@@ -1,4 +1,4 @@
-package com.devsuperior.uri2621;
+package com.devsuperior.uri2621.projections;
 
 public interface ProductProjection {
 
